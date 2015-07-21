@@ -1,0 +1,2 @@
+defmodule WeatherSearch do
+end
